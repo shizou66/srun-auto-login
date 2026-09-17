@@ -1,0 +1,32 @@
+{
+  "_说明": "复制本文件为 config.json 后填写。config.json 已被 .gitignore 排除，不会上传。",
+
+  "host": "202.203.208.5",
+
+  "username": "YOUR_STUDENT_ID",
+  "password": "YOUR_PASSWORD",
+
+  "ac_id": "0",
+
+  "n": "200",
+  "type": "1",
+  "os": "Windows 10",
+  "name": "Windows",
+  "double_stack": "0",
+
+  "enc_ver": "srun_bx1",
+
+  "scheme": "http",
+
+  "base64_alphabet": "srun",
+
+  "interval": 15,
+
+  "probe_urls": [
+    "http://connect.rom.miui.com/generate_204",
+    "http://connectivitycheck.platform.hicloud.com/generate_204"
+  ],
+
+  "timeout": 10,
+  "debug_response": false
+}
