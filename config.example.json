@@ -1,7 +1,7 @@
 {
   "_说明": "复制本文件为 config.json 后填写。config.json 已被 .gitignore 排除，不会上传。",
 
-  "host": "202.203.208.5",
+  "host": "10.0.0.1",
 
   "username": "YOUR_STUDENT_ID",
   "password": "YOUR_PASSWORD",
